@@ -1,1 +1,0 @@
-Hakell Curry
